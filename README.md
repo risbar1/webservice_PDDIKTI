@@ -14,6 +14,6 @@ Nomor Whatsapp : 0877 8443 0939
 
 Download Folder di github .zip terus di ekstrak di C:\xampp\htdocs
 
-![image](https://user-images.githubusercontent.com/83967960/120914808-a478b680-c6ca-11eb-8a57-71743cbcabc5.png)
+![image](https://user-images.githubusercontent.com/83967960/120914966-67f98a80-c6cb-11eb-87bc-c742c58b1be2.png)
 
 

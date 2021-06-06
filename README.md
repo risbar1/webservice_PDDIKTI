@@ -1,5 +1,5 @@
 # importir_feeder_versi_php
-aplikasi importir mempermudah perguruan tinggi dalam bentuk eksel
+aplikasi importir dalam bentuk eksel mempermudah perguruan tinggi 
 
 Nama Lengkap : Risky Akbar
 Nomor Whatsapp : 0877 8443 0939 

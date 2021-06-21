@@ -1,4 +1,4 @@
-# webservice_PDDIKTI
+# webservice PDDIKTI
 aplikasi importir dalam bentuk eksel mempermudah perguruan tinggi 
 
 Nama Lengkap : Risky Akbar
